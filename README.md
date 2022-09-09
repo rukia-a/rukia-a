@@ -19,6 +19,7 @@ My personal philosophy is that there's no such thing as 'no way', just that no o
 ![JAMF](https://img.shields.io/badge/-JAMF-000?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeD0iMHB4IiB5PSIwcHgiIHZlcnNpb249IjEuMCIgdmlld0JveD0iMCAwIDYyIDYyIj48ZyBmaWxsPSIjNzg4RUIxIj48cGF0aCBkPSJNNC4zIDEuNEEzLjQgMy40IDAgMCAwIDEgNC43bC4yIDIyLjdjMCAxLjcgMS41IDMuMyAzLjMgMy4zaDExLjNjNS4yIDAgMTIuMy0xLjIgMTQuNC0xMC40bDMuMS0xNC44Yy40LTIuMS0xLjItNC0zLjMtNEg0LjN6Ii8+PHBhdGggZD0iTTQ4LjIgMTEuOGMtNy43IDAtMTIuMyAzLjMtMTQuMiAxMC4ybC01LjQgMTYuNWMtMS45IDUuNC01LjIgNy43LTExIDcuN0g0LjNjLTEuNyAwLTMuMSAxLjMtMy4xIDMuMXY4LjVjMCAxLjUgMS4zIDIuOSAyLjkgMi45bDUzLjktLjNjMS43IDAgMy4xLTEuMyAzLjEtMy4xbC0uMi00My4xYzAtMS41LTEuMy0yLjktMi45LTIuOSAwIC4xLTkuOC41LTkuOC41eiIvPjwvZz48L3N2Zz4=)
 ![Cloudflare](https://img.shields.io/badge/CloudFlare-000?style=for-the-badge&logo=cloudflare)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 #### 🛠 Tools 
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
@@ -30,13 +31,11 @@ Can exit Vim without crying -->
 
 ### 📚 Currently Learning
 ![Nodejs](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![TerraForm](https://img.shields.io/badge/TerraForm-000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=007396)
 
 
 ### Current Projects
-GUI for a C++ client app using Electron
 
 Building and launching my personal website (Building it using pure CSS. No frameworks, all the pain)
 

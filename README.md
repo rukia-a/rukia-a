@@ -32,7 +32,7 @@ Can exit Vim without crying -->
 ### 📚 Currently Learning
 ![Nodejs](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![TerraForm](https://img.shields.io/badge/TerraForm-000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=007396)
+![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=Swift)
 
 
 ### Current Projects

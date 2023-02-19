@@ -32,7 +32,7 @@ Can exit Vim without crying -->
 ### 📚 Currently Learning
 ![Nodejs](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![TerraForm](https://img.shields.io/badge/TerraForm-000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=Swift)
+![Rust](https://img.shields.io/badge/rust-000?style=for-the-badge&logo=rust&logoColor=)
 
 
 ### Current Projects
@@ -49,4 +49,4 @@ When I was born, my family sacrificed a lamb in my name. That should make me int
 ### ✉ Get in touch-->
 
 ### Stats
-[![Rukia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralamiri)](https://github.com/anuraghazra/github-readme-stats)
+[![Rukia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralamiri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

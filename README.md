@@ -49,4 +49,4 @@ When I was born, my family sacrificed a lamb in my name. That should make me int
 ### ✉ Get in touch-->
 
 ### Stats
-[![Rukia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralamiri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Rukia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralamiri&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

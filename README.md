@@ -1,6 +1,6 @@
 <!-- To Do: Create cool header thing in Ascii or illustrator-->
 ### Hi There!
-I'm a full-time IT/Security Technician and Computer Science Student with a passion for tinkering, building, and breaking things! I love learning new things, which makes coming back to my many unfinished side-projects all the more painful.
+I'm a full-time Security Analyst and Computer Science Student with a passion for tinkering, building, and breaking things! I love learning new things, which makes coming back to my many unfinished side-projects all the more painful.
 
 My personal philosophy is that there's no such thing as 'no way', just that no one has found a creative or 🍝-esque work-around yet!
 
